@@ -13,6 +13,7 @@ import lombok.Setter;
 public class Category {
     private int id;
     private String name;
+    private String yoo;
 
     // Getters and Setters
 }
